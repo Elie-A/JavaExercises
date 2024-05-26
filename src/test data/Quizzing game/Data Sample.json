@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "value": "Type question here",
+    "choices": [
+      {"id": "a", "value": "answer1"},
+      {"id": "b", "value": "answer2"},
+      {"id": "c", "value": "answer3"}
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "2",
+    "value": "Type question here",
+    "choices": [
+      {"id": "a", "value": "answer1"},
+      {"id": "b", "value": "answer2"},
+      {"id": "c", "value": "answer3"}
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "3",
+    "value": "Type question here",
+    "choices": [
+      {"id": "a", "value": "answer1"},
+      {"id": "b", "value": "answer2"},
+      {"id": "c", "value": "answer3"}
+    ],
+    "answer": "b"
+  }
+]

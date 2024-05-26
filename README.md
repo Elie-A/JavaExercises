@@ -54,5 +54,5 @@ f. For testing, run the program with the above data, and also with another data 
 ## Projects (GUI/Console)
 
 1. Write a program that plays Hangman as good as possible. For example you can use a large dictionary like this and select the letter that excludes most words that are still possible solutions. Try to make the program as efficient as possible, i.e. don't scan the whole dictionary in every turn.
-2. Develop a system that manages a library's inventory, tracks book borrowing, and provides features for library staff and patrons.
-3. Develop a quizzing game. Use these as databases (text/Json/SQL)
+2. Develop a system that manages a library's inventory, tracks book borrowing, and provides features for library staff and patrons. (sql db)
+3. Develop a quizzing game. Use these as databases (text/xml/json)

@@ -1,0 +1,32 @@
+<Questions>
+	<Question id="1">
+		<Value>Type question here</Value>
+		<Choices>
+			<Choice id="a">answer1</Choice>
+			<Choice id="b">answer2</Choice>
+			<Choice id="c">answer3</Choice>
+		</Choices>
+		<Answer>a</Answer>
+	</Question>
+	<Question id="2">
+		<Value>Type question here</Value>
+		<Choices>
+			<Choice id="a">answer1</Choice>
+			<Choice id="b">answer2</Choice>
+			<Choice id="c">answer3</Choice>
+		</Choices>
+		<Answer>c</Answer>
+	</Question>
+	<Question id="3">
+		<Value>Type question here</Value>
+		<Choices>
+			<Choice id="a">answer1</Choice>
+			<Choice id="b">answer2</Choice>
+			<Choice id="c">answer3</Choice>
+		</Choices>
+		<Answer>b</Answer>
+	</Question>
+	.
+	.
+	.
+</Questions>

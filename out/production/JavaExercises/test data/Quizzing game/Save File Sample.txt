@@ -1,0 +1,8 @@
+========== Final Results ==========
+
+Date: YYYY-MM-DD hh:mm:ss
+_________________________
+First Name: fname
+Last Name: lname
+Score: score
+_________________________

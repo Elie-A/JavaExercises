@@ -1,0 +1,51 @@
+Hello & Welcome to the java quiz game! 
+Enter your first name: fname
+Enter your last name: lname
+============================================================
+Enter desired number of questions: 5
+============================================================
+
+1- Question 1 Here
+	a- answer1
+	b- answer2
+	c- answer3
+Answer: a
+Correct!				Score 10
+
+Do you want another question (y/n)?
+y
+
+2- Question 2 Here
+	a- answer1
+	b- answer2
+	c- answer3
+Answer: c
+Correct!				Score 20
+
+Do you want another question (y/n)?
+y
+
+3- Question 3 Here
+	a- answer1
+	b- answer2
+	c- answer3
+Answer: a
+Incorrect!				Score 10
+
+Do you want another question (y/n)?
+n
+
+Do you want save your score(y/n)?
+y
+Saved to fname_lname.txt
+
+Do you want save your score(y/n)?
+n
+========== Final Results ==========
+
+Date: YYYY-MM-DD hh:mm:ss
+_________________________
+First Name: fname
+Last Name: lname
+Score: score
+_________________________
