@@ -32,7 +32,7 @@ public class Exercise_02 {
         }
     }
 
-    public static int sumOfNumbersMultipleForLoop(int number){
+    private static int sumOfNumbersMultipleForLoop(int number){
         int sum = 0;
         for (int i = 1; i <= number; i++) {
             if (i % 3 == 0 || i % 5 == 0) {
@@ -42,7 +42,7 @@ public class Exercise_02 {
         return sum;
     }
 
-    public static int sumOfNumbersMultipleWhileLoop(int number){
+    private static int sumOfNumbersMultipleWhileLoop(int number){
         int sum = 0;
         int i = 1;
         while (i <= number) {
@@ -54,7 +54,7 @@ public class Exercise_02 {
         return sum;
     }
 
-    public static int sumNummbersMultipleRecursive(int n) {
+    private static int sumNummbersMultipleRecursive(int n) {
         if (n <= 0) {
             return 0;
         }

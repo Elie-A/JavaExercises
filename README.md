@@ -10,7 +10,7 @@
 8. Write a function that returns the largest element in a list.
 9. Write function that reverses a list, preferably in place (without using classes by manipulating the array directly)
 10. Write a function that checks whether an element occurs in a list
-11. Write a function that returns the position(s) where and element occurs in a list
+11. Write a function that returns the position(s) where an element occurs in a list
 12. Write a function that returns the elements in odd positions in the list
 13. Write a function that tests if a string is palindrome
 14. Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion

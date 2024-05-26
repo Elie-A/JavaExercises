@@ -13,7 +13,7 @@ public class Exercise_04 {
         scanner.close();
     }
 
-    public static int getNumber(Scanner scanner) {
+    private static int getNumber(Scanner scanner) {
         while (true) {
             try {
                 System.out.print("Enter a number: ");
@@ -24,7 +24,7 @@ public class Exercise_04 {
         }
     }
 
-    public static void printMultiplicationTable(int number) {
+    private static void printMultiplicationTable(int number) {
         System.out.println("Multiplication Table for " + number + ":");
         for (int i = 0; i <= 10; i++) {
             System.out.println(number + " x " + i + " = " + (number * i));

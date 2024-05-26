@@ -20,7 +20,7 @@ public class Exercise_03 {
         scanner.close();
     }
 
-    public static int getNumber(Scanner scanner) {
+    private static int getNumber(Scanner scanner) {
         while (true) {
             try {
                 System.out.print("Enter a number: ");
@@ -31,7 +31,7 @@ public class Exercise_03 {
         }
     }
 
-    public static String getChoice(Scanner scanner) {
+    private static String getChoice(Scanner scanner) {
         String[] choices = {"sum", "+", "subtraction", "-", "multiplication", "*", "division", "//", "all"};
         while (true) {
             System.out.print("Choose an operation (sum or +, subtraction or -, multiplication or *, division or /, all): ");

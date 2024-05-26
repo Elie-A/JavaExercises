@@ -31,7 +31,7 @@ public class Exercise_01 {
         }
     }
 
-    public static int calculateSumRecursive(int number) {
+    private static int calculateSumRecursive(int number) {
         if (number == 0) return 0;
         else if (number == 1) return 1;
         else if (number == -1) return -1;
@@ -39,7 +39,7 @@ public class Exercise_01 {
         else return number + calculateSumRecursive(number + 1);
     }
 
-    public static int calculateSumForLoop(int number) {
+    private static int calculateSumForLoop(int number) {
         if (number == 0) return 0;
         if (number == 1) return 1;
         if (number == -1) return -1;
@@ -55,7 +55,7 @@ public class Exercise_01 {
         return sum;
     }
 
-    public static int calculateSumWhileLoop(int number) {
+    private static int calculateSumWhileLoop(int number) {
         if (number == 0) return 0;
         if (number == 1) return 1;
         if (number == -1) return -1;
