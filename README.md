@@ -51,8 +51,6 @@ e. If no candidate received 50% of the votes, the program should print a message
 f. For testing, run the program with the above data, and also with another data file where Candidate C receives only 108 votes in precinct
 34. Write a program that validates if a number is Harshad or not. A Harshad number is when the number modulo sum of the numbers's digits is = 0
 
-## Projects (GUI/Console)
-
+## Projects (Console)
 1. Write a program that plays Hangman as good as possible. For example you can use a large dictionary like this and select the letter that excludes most words that are still possible solutions. Try to make the program as efficient as possible, i.e. don't scan the whole dictionary in every turn.
-2. Develop a system that manages a library's inventory, tracks book borrowing, and provides features for library staff and patrons. (sql db)
-3. Develop a quizzing game. Use these as databases (text/xml/json)
+2. Develop a quizzing game. Use these as databases (text/xml/json)
